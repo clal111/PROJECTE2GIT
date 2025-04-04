@@ -1,4 +1,4 @@
-lion yellow
-tiger orange
-leopard spotted
-turtle green
+lion yellow roar
+tiger orange growl
+leopard spotted snarl
+turtle green grunt
